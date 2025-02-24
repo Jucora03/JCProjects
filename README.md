@@ -1,2 +1,2 @@
 # JCProjects
-My example projects
+My example projects and other stuffs
